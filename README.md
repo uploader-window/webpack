@@ -28,3 +28,4 @@ This is a simple example to use Uploader Window with webpack.
 
 - You can use `npm` instead of `yarn` too (just type `npm` instead of the word `yarn` in the examples above)
 - To modify the source, view the `index.js` file in `src` directory
+- For more information please check out the docs here: https://www.uploader.win/docs.html
