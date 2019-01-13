@@ -4,12 +4,13 @@ This is a simple example to use Uploader Window with webpack.
 
 ## To view the demo
 
-### First cone the repository on your computer
+### First clone the repository on your computer
 
 `git clone https://github.com/uploader-window/webpack.git`
 
 ### Then inside the newly created directory, type the following command
 
+`cd webpack`
 `yarn install`
 
 ### Then run the dev server by typing the following:
@@ -26,3 +27,4 @@ This is a simple example to use Uploader Window with webpack.
 ### Notes
 
 - You can use `npm` instead of `yarn` too (just type `npm` instead of the word `yarn` in the examples above)
+- To modify the source, view the `index.js` file in `src` directory
